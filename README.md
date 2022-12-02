@@ -1,4 +1,4 @@
-### Hi, my name is Max. I am a fellow at Pursuit, an intensive 12-month software engineering fellowship with a 10% acceptance rate. Outside of building javascript codes some of my hobbies include: cooking, baking, fishing, exercising/stretching.
+### Hi, my name is Max. I am a fellow at Pursuit, an intensive 12-month software engineering fellowship with a 10% acceptance rate. Outside of building javascript codes some of my hobbies include: cooking, baking, fishing, exercising and stretching.
 
 <!--
 **maxwattan/maxwattan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
