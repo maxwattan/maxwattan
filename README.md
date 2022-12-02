@@ -1,4 +1,6 @@
-### Hi, my name is Max. I am a fellow at Pursuit, an intensive 12-month software engineering fellowship with a 10% acceptance rate. Outside of building javascript codes some of my hobbies include: cooking, baking, fishing, exercising and stretching.
+### Hi, my name is Max. I am a fellow at Pursuit, which is a 12-month, Google-funded software engineering fellowship with a 9% acceptance rate whose graduates have been hired as developers at leading companies such as Pinterest, JP Morgan and Spotify.
+
+Project-based curriculum provides hands-on experience with JavaScript, HTML, CSS, Node, Express, React/Redux, PostgreSQL, APIs, Git, Data Structures, Algorithms, sprints, Agile, code reviews, and pair programming. Outside of building javascript codes some of my hobbies include: cooking, baking, fishing, exercising and stretching.
 
 <!--
 **maxwattan/maxwattan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
